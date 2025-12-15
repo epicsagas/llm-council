@@ -1,9 +1,0 @@
-{
-  "servers": {
-    "llm-council": {
-      "command": "mcp-council",
-      "args": []
-    }
-  }
-}
-
